@@ -1,0 +1,23 @@
+form {
+    max-width: 580px;
+    margin: 70px auto;
+    padding: 16px;
+    border: 3px solid #eaeaea;
+    
+    
+  }
+
+  input:focus {
+    background-color: rgb(243, 243, 176);
+  }
+  /* input[type=password]:focus {
+    background-color: rgb(243, 243, 176);
+  } */
+
+/* input[type=form] :invalid{
+    border: red 4px;
+}
+
+input[type=form]:valid{
+    border:blue 4px;
+} */
